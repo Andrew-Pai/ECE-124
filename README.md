@@ -1,2 +1,2 @@
 # ECE-124
-Uwaterloo ECE Course: Digital Circuits and Systems Labs
+This is a collection of labs from ECE 124: Digital Circuits and Systems Labs
